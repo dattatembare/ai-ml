@@ -1,6 +1,6 @@
 # ai-ml
 
-1. Python basics with numpy and pandas.
+1. Python basics + numpy and pandas.
    - NumPy - ![image](https://github.com/user-attachments/assets/c720143d-9127-4622-994d-35767c44b449)
    - pandas - ![image](https://github.com/user-attachments/assets/9e4cd06a-94a2-4f87-9017-2f0134949da1)
 
@@ -12,11 +12,9 @@
    - https://medium.com/data-science/data-visualization-which-graphs-should-i-use-55e214ee9cf1
 
 3. Machine Learning -
-
-   ![image](https://github.com/user-attachments/assets/44c0873b-6695-49ed-a1bb-64d935166252)
    - Machine Learning Lifecycle: https://www.geeksforgeeks.org/machine-learning-lifecycle/
+   ![image](https://github.com/user-attachments/assets/44c0873b-6695-49ed-a1bb-64d935166252)
    - Types of ML - ![image](https://github.com/user-attachments/assets/2037b7b8-62f5-4b54-b3a8-c8be852cf054)
-   - 
 
 4. AI
 
