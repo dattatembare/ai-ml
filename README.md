@@ -20,4 +20,5 @@
 
 
 Free Certifications - 
-1. Generative AI Fundamentals - https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?scid=7018Y000001Fi0NQAS&utm_medium=paid+search&utm_source=bing&utm_campaign=687555111&utm_adgroup=1327112834765805&utm_content=training&utm_offer=generative-ai-fundamentals&utm_ad=&utm_term=learning%20in%20ai
+1. GreatLearning - Free Online Courses: https://www.mygreatlearning.com/academy (Check free Free Online Courses section)
+2. Generative AI Fundamentals - https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?scid=7018Y000001Fi0NQAS&utm_medium=paid+search&utm_source=bing&utm_campaign=687555111&utm_adgroup=1327112834765805&utm_content=training&utm_offer=generative-ai-fundamentals&utm_ad=&utm_term=learning%20in%20ai
