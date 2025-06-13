@@ -62,7 +62,9 @@
 
 5. **Data Science -**
   ![image](https://github.com/user-attachments/assets/58869cdd-6823-4b58-938e-ec32c7ec0567)
-   - EDA - Exploratory Data Analysis: ![image](https://github.com/user-attachments/assets/e94f9712-7e94-481d-b6de-c00754b4752c)
+
+  EDA - Exploratory Data Analysis: ![image](https://github.com/user-attachments/assets/e94f9712-7e94-481d-b6de-c00754b4752c)
+
    - Python visualization libraries - https://realpython.com/tutorials/data-viz/
    - https://ankushmulkar.medium.com/complete-exploratory-data-analysis-step-by-step-guide-for-data-analyst-34a07156217a
    - https://medium.com/data-science/data-visualization-which-graphs-should-i-use-55e214ee9cf1 
