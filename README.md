@@ -33,18 +33,22 @@
    **Introduction to Neural Networks:**
    - Introduction To Neural Networks
    - Optimizing Neural Networks
-   - Video: https://youtu.be/jmmW0F0biz0?si=vgkVtfuw5HIGxAeI
+   
+   Video: https://youtu.be/jmmW0F0biz0?si=vgkVtfuw5HIGxAeI
 
    **Natural Language Processing with Generative Al:**
    - Word Embeddings
    - Attention Mechanism and Transformers
    - Large Language Models and Prompt Engineering
    - RAG: Retrieval Augmented Generation. Video - https://youtu.be/HdafI0t3sEY?si=j2qVJANzG1kp4jyN
-   - Video: NLP - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
+   
+   Video: NLP - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
   
    **Introduction to Computer Vision:**
    - Image Processing
-   - Convolutional Neural Networks Video - https://youtu.be/QzY57FaENXg?si=sVD75WNpLxmRJfu9
+   - Convolutional Neural Networks
+   
+   Video - https://youtu.be/QzY57FaENXg?si=sVD75WNpLxmRJfu9
   
    **Model Deployment:**
    - Introduction to Model Deployment
