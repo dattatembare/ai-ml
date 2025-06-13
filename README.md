@@ -1,14 +1,14 @@
 # ai-ml
 
-1. **AI -**
+## 1. **AI -**
 
    Relationship between AI, ML, DL, and CNN
 
    ![image](https://github.com/user-attachments/assets/8cb6afc1-ff8b-41f8-aa1d-2c35be9b2e02)
 
-   Video: **AI Fundamentals -** https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
+      Video: **AI Fundamentals -** https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
 
-3. **Machine Learning -**
+## 2. **Machine Learning -**
 
    Machine Learning Lifecycle: https://www.geeksforgeeks.org/machine-learning-lifecycle/
 
@@ -18,53 +18,57 @@
 
    ![image](https://github.com/user-attachments/assets/2037b7b8-62f5-4b54-b3a8-c8be852cf054)
 
-   **Machine Learning:**
+   **1. Machine Learning:**
    - Linear Regression
    - Decision Trees
    - K-means Clustering
 
-   **Advanced Machine Learning:**
+   **2. Advanced Machine Learning:**
    - Bagging
    - Boosting
    - Model Tuning
   
-   Video: Machine Learning Algorithms - https://www.youtube.com/watch?v=E0Hmnixke2g
+      Video: Machine Learning Algorithms - https://www.youtube.com/watch?v=E0Hmnixke2g
   
-   **Introduction to Neural Networks:**
+   **3. Introduction to Neural Networks:**
    - Introduction To Neural Networks
    - Optimizing Neural Networks
    
-   Video: https://youtu.be/jmmW0F0biz0?si=vgkVtfuw5HIGxAeI
+      Video: https://youtu.be/jmmW0F0biz0?si=vgkVtfuw5HIGxAeI
 
-   **Natural Language Processing with Generative Al:**
+   **4. Natural Language Processing with Generative Al:**
    - Word Embeddings
    - Attention Mechanism and Transformers
    - Large Language Models and Prompt Engineering
    - RAG: Retrieval Augmented Generation. Video - https://youtu.be/HdafI0t3sEY?si=j2qVJANzG1kp4jyN
    
-   Video: NLP - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
+      Video: NLP - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
   
-   **Introduction to Computer Vision:**
+   **5. Introduction to Computer Vision:**
    - Image Processing
    - Convolutional Neural Networks
    
-   Video - https://youtu.be/QzY57FaENXg?si=sVD75WNpLxmRJfu9
+      Video - https://youtu.be/QzY57FaENXg?si=sVD75WNpLxmRJfu9
   
-   **Model Deployment:**
+   **6. Model Deployment:**
    - Introduction to Model Deployment
    - Containerization
 
-   Multimodal GenAl
-   Generative Al
-   Statistical Learning
-   Recommendation Systems
 
-4. **Python basics + numpy and pandas.**
+## 3. Multimodal GenAl
+
+## 4. Generative Al
+
+## 5. Statistical Learning
+
+## 6. Recommendation Systems
+
+## Python basics + numpy and pandas:
    NumPy - ![image](https://github.com/user-attachments/assets/c720143d-9127-4622-994d-35767c44b449)
 
    pandas - ![image](https://github.com/user-attachments/assets/9e4cd06a-94a2-4f87-9017-2f0134949da1)
 
-5. **Data Science -**
+## Data Science:
   ![image](https://github.com/user-attachments/assets/58869cdd-6823-4b58-938e-ec32c7ec0567)
 
   EDA - Exploratory Data Analysis: ![image](https://github.com/user-attachments/assets/e94f9712-7e94-481d-b6de-c00754b4752c)
@@ -72,8 +76,6 @@
    - Python visualization libraries - https://realpython.com/tutorials/data-viz/
    - https://ankushmulkar.medium.com/complete-exploratory-data-analysis-step-by-step-guide-for-data-analyst-34a07156217a
    - https://medium.com/data-science/data-visualization-which-graphs-should-i-use-55e214ee9cf1 
-
-## 
 
 # Free Cources/Certifications - 
 1. GreatLearning - Free Online Courses: https://www.mygreatlearning.com/academy (Check for Free Online Courses section)
