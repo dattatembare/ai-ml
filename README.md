@@ -54,14 +54,13 @@
    - Introduction to Model Deployment
    - Containerization
 
+## 3. Statistical Learning
 
-## 3. Multimodal GenAl
+## 4. Recommendation Systems
 
-## 4. Generative Al
+## 6. Generative Al
 
-## 5. Statistical Learning
-
-## 6. Recommendation Systems
+## 5. Multimodal GenAl
 
 ## 7. Agentic AI 
    - https://youtu.be/EDb37y_MhRw?si=NUoXLfqXLi0B3Wv8
