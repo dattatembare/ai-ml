@@ -3,8 +3,8 @@
 ## 1. **AI -**
 
    Relationship between AI, ML, DL, and CNN
-
-   ![image](https://github.com/user-attachments/assets/8cb6afc1-ff8b-41f8-aa1d-2c35be9b2e02)
+   
+   <img src="https://github.com/user-attachments/assets/8cb6afc1-ff8b-41f8-aa1d-2c35be9b2e02" width="500" height="500">
 
       Video: **AI Fundamentals -** https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
 
@@ -12,11 +12,11 @@
 
    Machine Learning Lifecycle: https://www.geeksforgeeks.org/machine-learning-lifecycle/
 
-   ![image](https://github.com/user-attachments/assets/44c0873b-6695-49ed-a1bb-64d935166252)
+   <img src="https://github.com/user-attachments/assets/44c0873b-6695-49ed-a1bb-64d935166252" width="500" height="500">
 
    **Types of ML -**
 
-   ![image](https://github.com/user-attachments/assets/2037b7b8-62f5-4b54-b3a8-c8be852cf054)
+   <img src="https://github.com/user-attachments/assets/2037b7b8-62f5-4b54-b3a8-c8be852cf054" width="500" height="500">
 
    **1. Machine Learning:**
    - Linear Regression
