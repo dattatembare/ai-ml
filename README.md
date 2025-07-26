@@ -63,7 +63,11 @@
 
 ## 6. Recommendation Systems
 
+## 7. Agentic AI - https://youtu.be/EDb37y_MhRw?si=NUoXLfqXLi0B3Wv8
+
 ## Python basics + numpy and pandas:
+   Python - https://www.youtube.com/results?search_query=corey+schafer
+   
    NumPy - ![image](https://github.com/user-attachments/assets/c720143d-9127-4622-994d-35767c44b449)
 
    pandas - ![image](https://github.com/user-attachments/assets/9e4cd06a-94a2-4f87-9017-2f0134949da1)
