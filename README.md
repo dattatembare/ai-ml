@@ -6,7 +6,7 @@
    
    <img src="https://github.com/user-attachments/assets/8cb6afc1-ff8b-41f8-aa1d-2c35be9b2e02" width="500" height="500">
 
-      Video: **AI Fundamentals -** https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
+   Video: **AI Fundamentals** - https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
 
 ## 2. **Machine Learning -**
 
@@ -28,7 +28,7 @@
    - Boosting
    - Model Tuning
   
-      Video: Machine Learning Algorithms - https://www.youtube.com/watch?v=E0Hmnixke2g
+      Video: **Machine Learning Algorithms** - https://www.youtube.com/watch?v=E0Hmnixke2g
   
    **3. Introduction to Neural Networks:**
    - Introduction To Neural Networks
@@ -42,7 +42,7 @@
    - Large Language Models and Prompt Engineering
    - RAG: Retrieval Augmented Generation. Video - https://youtu.be/HdafI0t3sEY?si=j2qVJANzG1kp4jyN
    
-      Video: NLP - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
+      Video: **NLP** - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
   
    **5. Introduction to Computer Vision:**
    - Image Processing
