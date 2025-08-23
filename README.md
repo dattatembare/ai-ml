@@ -8,6 +8,8 @@
 
    Video: **AI Fundamentals** - https://www.youtube.com/watch?v=8lo1s29ODj8&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
 
+---
+
 ## 2. **Machine Learning -**
 
    Machine Learning Lifecycle: https://www.geeksforgeeks.org/machine-learning-lifecycle/
@@ -29,12 +31,16 @@
    - Model Tuning
   
       Video: **Machine Learning Algorithms** - https://www.youtube.com/watch?v=E0Hmnixke2g
-  
+
+---
+
    **3. Neural Networks:**
    - Introduction To Neural Networks
    - Optimizing Neural Networks
    
       Video: https://youtu.be/jmmW0F0biz0?si=vgkVtfuw5HIGxAeI
+
+---
 
    **4. Natural Language Processing with Generative Al:**
    - Word Embeddings
@@ -43,12 +49,16 @@
    - RAG: Retrieval Augmented Generation. Video - https://youtu.be/HdafI0t3sEY?si=j2qVJANzG1kp4jyN
    
       Video: **NLP** - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
-  
+
+---
+
    **5. Computer Vision:**
    - Image Processing
    - Convolutional Neural Networks
    
       Video - https://youtu.be/QzY57FaENXg?si=sVD75WNpLxmRJfu9
+
+---
   
    **6. Model Deployment:**
    - Introduction to Model Deployment
@@ -67,12 +77,16 @@
    - https://youtu.be/EDb37y_MhRw?si=NUoXLfqXLi0B3Wv8
    - https://youtu.be/15_pppse4fY?si=Hi3A-VahuHwW4DoI
 
+---
+
 ## Python basics + numpy and pandas:
    Python - https://www.youtube.com/results?search_query=corey+schafer
    
    NumPy - ![image](https://github.com/user-attachments/assets/c720143d-9127-4622-994d-35767c44b449)
 
    pandas - ![image](https://github.com/user-attachments/assets/9e4cd06a-94a2-4f87-9017-2f0134949da1)
+
+---
 
 ## Data Science:
   ![image](https://github.com/user-attachments/assets/58869cdd-6823-4b58-938e-ec32c7ec0567)
@@ -81,7 +95,89 @@
 
    - Python visualization libraries - https://realpython.com/tutorials/data-viz/
    - https://ankushmulkar.medium.com/complete-exploratory-data-analysis-step-by-step-guide-for-data-analyst-34a07156217a
-   - https://medium.com/data-science/data-visualization-which-graphs-should-i-use-55e214ee9cf1 
+   - https://medium.com/data-science/data-visualization-which-graphs-should-i-use-55e214ee9cf1
+
+Here’s a curated list of **important Python libraries** for **Machine Learning (ML)** and **Artificial Intelligence (AI)**, grouped by functionality:
+
+---
+
+# Important Python libraries for Machine Learning (ML) and Artificial Intelligence (AI)
+
+### 🔧 **Core ML & AI Libraries**
+These are foundational libraries used for building and training models:
+
+- **Scikit-learn**: Classical ML algorithms (regression, classification, clustering, etc.).
+- **TensorFlow**: Deep learning framework by Google; supports neural networks, NLP, computer vision.
+- **PyTorch**: Deep learning framework by Meta; widely used in research and production.
+- **XGBoost / LightGBM / CatBoost**: Gradient boosting libraries for structured/tabular data.
+
+---
+
+### 🧠 **Deep Learning & Neural Networks**
+For building and training deep neural networks:
+
+- **Keras**: High-level API for TensorFlow; simplifies model building.
+- **Fastai**: Built on PyTorch; simplifies training deep learning models.
+- **Hugging Face Transformers**: State-of-the-art NLP models (BERT, GPT, etc.).
+
+---
+
+### 📊 **Data Handling & Preprocessing**
+For data manipulation and preparation:
+
+- **Pandas**: Dataframes and data manipulation.
+- **NumPy**: Numerical computations and array operations.
+- **Dask**: Parallel computing for large datasets.
+- **OpenCV**: Image processing and computer vision.
+
+---
+
+### 📈 **Visualization**
+For plotting and visualizing data and model performance:
+
+- **Matplotlib**: Basic plotting.
+- **Seaborn**: Statistical data visualization.
+- **Plotly**: Interactive plots.
+- **Yellowbrick**: Visual analysis and diagnostics for ML models.
+
+---
+
+### 🧪 **Model Evaluation & Experimentation**
+For tracking experiments and evaluating models:
+
+- **MLflow**: Experiment tracking and model deployment.
+- **Optuna / Hyperopt / Ray Tune**: Hyperparameter optimization.
+- **SHAP / LIME**: Model interpretability and explainability.
+
+---
+
+### 🌐 **NLP & Text Processing**
+For natural language processing tasks:
+
+- **spaCy**: Industrial-strength NLP.
+- **NLTK**: Traditional NLP toolkit.
+- **TextBlob**: Simple NLP tasks.
+- **Gensim**: Topic modeling and word embeddings.
+
+---
+
+### 🖼️ **Computer Vision**
+For image-related tasks:
+
+- **Torchvision**: Image datasets and transforms for PyTorch.
+- **Albumentations**: Fast image augmentation.
+- **Detectron2**: Object detection and segmentation.
+
+---
+
+### ☁️ **Deployment & Serving**
+For deploying ML models:
+
+- **ONNX**: Open format for ML model interoperability.
+- **TensorFlow Serving / TorchServe**: Model serving frameworks.
+- **Streamlit / Gradio / Flask / FastAPI**: Building ML-powered web apps.
+
+---
 
 # Useful references: 
 1. Generate video - https://firefly.adobe.com/generate/video
@@ -93,7 +189,8 @@
 4. Create a professional website with just a few clicks. Enjoy free hosting, SSL security protocols, and full customization—all powered by AI, no coding needed. 
    https://www.renderforest.com/home/main/for-you
 5. n8n is a workflow automation platform - https://n8n.io/
-   
+
+---
 
 # Free Cources/Certifications - 
 1. GreatLearning - Free Online Courses: https://www.mygreatlearning.com/academy (Check for Free Online Courses section)
