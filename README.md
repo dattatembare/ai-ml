@@ -30,7 +30,7 @@
   
       Video: **Machine Learning Algorithms** - https://www.youtube.com/watch?v=E0Hmnixke2g
   
-   **3. Introduction to Neural Networks:**
+   **3. Neural Networks:**
    - Introduction To Neural Networks
    - Optimizing Neural Networks
    
@@ -44,7 +44,7 @@
    
       Video: **NLP** - https://youtu.be/fLvJ8VdHLA0?si=dHFrB6J0TqjWIZr4
   
-   **5. Introduction to Computer Vision:**
+   **5. Computer Vision:**
    - Image Processing
    - Convolutional Neural Networks
    
