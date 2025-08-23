@@ -58,10 +58,11 @@
 
 ## 4. Recommendation Systems
 
-## 6. Generative Al
+## 5. Generative Al
 
-## 5. Multimodal GenAl
-
+## 6. Multimodal GenAl
+   https://colab.research.google.com/drive/1M56cAejwmps7X-sFVNZDXYqrTncHk806?usp=sharing
+   
 ## 7. Agentic AI 
    - https://youtu.be/EDb37y_MhRw?si=NUoXLfqXLi0B3Wv8
    - https://youtu.be/15_pppse4fY?si=Hi3A-VahuHwW4DoI
@@ -82,7 +83,21 @@
    - https://ankushmulkar.medium.com/complete-exploratory-data-analysis-step-by-step-guide-for-data-analyst-34a07156217a
    - https://medium.com/data-science/data-visualization-which-graphs-should-i-use-55e214ee9cf1 
 
+# Useful references: 
+1. Generate video - https://firefly.adobe.com/generate/video
+2. Parler-TTS is a lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker 
+   https://huggingface.co/parler-tts/parler-tts-mini-v1
+3. ElevenLabs is an AI audio research company and platform that provides advanced tools for generating and manipulating realistic, human-like speech and voices. Its core technologies include text-to-speech (TTS) to create audio from text, voice
+   cloning to create new voices from existing audio samples, and Conversational AI for interactive voice agents. These tools are used for applications like creating audiobooks, video game dialogue, dubbing content, and building AI-powered chatbots      for various industries.
+   https://elevenlabs.io/
+4. Create a professional website with just a few clicks. Enjoy free hosting, SSL security protocols, and full customization—all powered by AI, no coding needed. 
+   https://www.renderforest.com/home/main/for-you
+5. n8n is a workflow automation platform - https://n8n.io/
+   
+
 # Free Cources/Certifications - 
 1. GreatLearning - Free Online Courses: https://www.mygreatlearning.com/academy (Check for Free Online Courses section)
 2. Coursera Free Courses Online - https://www.coursera.org/courses?query=free&skills=Machine%20Learning&msockid=2bc04a7838456e7031905fd739136ffe
 3. Generative AI Fundamentals - https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?scid=7018Y000001Fi0NQAS&utm_medium=paid+search&utm_source=bing&utm_campaign=687555111&utm_adgroup=1327112834765805&utm_content=training&utm_offer=generative-ai-fundamentals&utm_ad=&utm_term=learning%20in%20ai
+4. https://www.edx.org/ --> edX is the online learning platform from world-leading digital education company 2U, LLC. edX was founded by Harvard and MIT as an experiment. 
+   
